@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year ms student from [ist](https://eecs.pku.edu.cn/), [The Penn State University](https://www.pku.edu.cn/). My research interest includes
+I’m a first-year master’s student in Informatics at The Pennsylvania State University. I earned my bachelor’s degree in Mathematics and Applied Mathematics from Shenzhen University. My research interests include federated learning, medical data, and large language models.
 
 
 
