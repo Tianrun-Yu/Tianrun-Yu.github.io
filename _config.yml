@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Tianrun Yu"
 title_separator          : "-"
 name                     : &name "Tianrun Yu"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://github.com/Tianrun-Yu/Tianrun-Yu.github.io"
+description              : &description "Personal website of Tianrun Yu"
+url                      : "https://tianrun-yu.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Tianrun-Yu/Tianrun-Yu.github.io"
+repository               : "Tianrun-Yu/Tianrun-Yu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tianrun Yu"
-  location         : "State college"
-  employer         : "The Penn State University"
+  location         : "State College, PA"
+  employer         : "The Pennsylvania State University"
   email            : "tvy5242@psu.edu" 
 
   # Academic websites
@@ -40,7 +40,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "https://github.com/Tianrun-Yu?tab=repositories"
+  github           : "Tianrun-Yu"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -341,3 +341,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
