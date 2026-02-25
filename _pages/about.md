@@ -31,19 +31,22 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **ICPO: Provable and Practical In-Context Policy Optimization for Test-Time Scaling**  
+  **Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang  
+  *ICLR 2026*  
+  [PDF](https://openreview.net/pdf?id=TAthdtPe7k)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**  
+  **Tianrun Yu**, Jiaqi Wang, Haoyu Wang, Mingquan Lin, Han Liu, Nelson S. Yee, Fenglong Ma  
+  *KDD 2025 (Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining)*  
+  [PDF](https://dl.acm.org/doi/pdf/10.1145/3711896.3737161)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **When the Server Steps In: Calibrated Updates for Fair Federated Learning**  
+  **Tianrun Yu**, Kaixiang Zhao, Cheng Zhang, Anjun Gao, Yueyang Quan, Zhuqing Liu, Minghong Fang  
+  *arXiv 2026*  
+  [PDF](https://arxiv.org/pdf/2601.05352)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
