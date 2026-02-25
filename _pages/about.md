@@ -32,7 +32,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
 # 📝 Publications 
 
 ## LLM Reasoning
-- **Data Selection for SFT: Efficient Reasoning via Informative Alignment** 
+- **Data Selection for SFT: Efficient Reasoning via Informative Alignment**  
   **Tianrun Yu**, Kaixiang Zhao, James Chen, Zack Ballam, Huaxiu Yao, Fenglong Ma, Taylor Killian, Weitong Zhang, Porter Jenkins  
   *NeurIPS 2026*  
   [PDF](https://openreview.net/pdf?id=TAthdtPe7k)
