@@ -31,11 +31,13 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 # 📝 Publications 
 
+## LLM Reasoning
 - **ICPO: Provable and Practical In-Context Policy Optimization for Test-Time Scaling**  
   **Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang  
   *ICLR 2026*  
   [PDF](https://openreview.net/pdf?id=TAthdtPe7k)
 
+## Federated Learning
 - **Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**  
   **Tianrun Yu**, Jiaqi Wang, Haoyu Wang, Mingquan Lin, Han Liu, Nelson S. Yee, Fenglong Ma  
   *KDD 2025*  
@@ -43,8 +45,9 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 - **When the Server Steps In: Calibrated Updates for Fair Federated Learning**  
   **Tianrun Yu**, Kaixiang Zhao, Cheng Zhang, Anjun Gao, Yueyang Quan, Zhuqing Liu, Minghong Fang  
-  *arXiv*  
+  *arXiv 2026*  
   [PDF](https://arxiv.org/pdf/2601.05352)
+
 
 
 
