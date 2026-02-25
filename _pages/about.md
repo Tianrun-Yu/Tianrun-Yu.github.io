@@ -57,8 +57,8 @@ My early work focused on fairness in federated learning. Recently, my primary re
 - *2021*: Shenzhen University Top-notch Innovative Talents Scholarship 
 
 # 📖 Educations
-- *2026.01 - Present*, Ph.D. in Computer Science, Brigham Young University (BYU)
-- *2024.09 - 2025.12*, M.S. in Informatics, The Pennsylvania State University (Penn State)
+- *2026.01 - Present*, Ph.D. in Computer Science, Brigham Young University 
+- *2024.09 - 2025.12*, M.S. in Informatics, The Pennsylvania State University 
 - *2020.09 - 2024.07*, B.S. in Mathematics, Shenzhen University
 
 
