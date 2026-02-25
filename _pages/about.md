@@ -18,7 +18,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Computer Science at Brigham Young University (BYU), advised by <a href="https://science.byu.edu/directory/porter-jenkins">Prof. Porter Jenkins</a>. I received my M.S. from Penn State (IST), where I was advised by <a href="https://fenglong-ma.github.io/">Prof. Fenglong Ma</a>. I also collaborate with <a href="https://zeroweight.github.io/">Weitong Zhang</a> (UNC).
+I am a Ph.D. student in Computer Science at Brigham Young University (BYU), advised by <a href="https://science.byu.edu/directory/porter-jenkins">Prof. Porter Jenkins</a>, and I also collaborate with <a href="https://zeroweight.github.io/">Prof. Weitong Zhang</a> (UNC). I received my M.S. from Penn State (IST), where I was advised by <a href="https://fenglong-ma.github.io/">Prof. Fenglong Ma</a> (PSU), and I earned my B.S. in Mathematics from Shenzhen University.
+
 
 My early work focused on fairness in federated learning. Recently, my primary research direction has moved to LLM reasoning, with a focus on post-training and test-time scaling (TTS). I am always happy to connect and discuss related ideas.
 
