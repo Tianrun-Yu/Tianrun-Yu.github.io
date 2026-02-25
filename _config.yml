@@ -11,7 +11,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 author:
   name             : "Tianrun Yu"
   avatar           : "images/citations.jpeg"
-  bio              : "PhD Student @ BYU"
+  bio              : 
   location         : "Provo, UT, USA"
   employer         : "Brigham Young University"
   pubmed           :
