@@ -20,9 +20,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at Brigham Young University (BYU), advised by <a href="https://science.byu.edu/directory/porter-jenkins">Prof. Porter Jenkins</a>. I received my M.S. from Penn State (IST), where I was advised by <a href="https://fenglong-ma.github.io/">Prof. Fenglong Ma</a>. I also collaborate with <a href="https://zeroweight.github.io/">Weitong Zhang</a> (UNC).
 
-My early work focused on fairness in federated learning under heterogeneity and distribution shift. Recently, my primary research direction has moved to LLM reasoning and post-training—especially reinforcement learning and in-context policy optimization—to improve reasoning capability, robustness, and test-time scaling.
-
-I am also interested in understanding reasoning dynamics from a geometric and dynamical-systems perspective: how post-training signals reshape the structure and stability of reasoning trajectories. I am always happy to connect and discuss related ideas.
+My early work focused on fairness in federated learning. Recently, my primary research direction has moved to LLM reasoning, with a focus on post-training and test-time scaling (TTS). I am always happy to connect and discuss related ideas.
 
 
 
