@@ -38,27 +38,29 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 - **Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**  
   **Tianrun Yu**, Jiaqi Wang, Haoyu Wang, Mingquan Lin, Han Liu, Nelson S. Yee, Fenglong Ma  
-  *KDD 2025 (Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining)*  
+  *KDD 2025*  
   [PDF](https://dl.acm.org/doi/pdf/10.1145/3711896.3737161)
 
 - **When the Server Steps In: Calibrated Updates for Fair Federated Learning**  
   **Tianrun Yu**, Kaixiang Zhao, Cheng Zhang, Anjun Gao, Yueyang Quan, Zhuqing Liu, Minghong Fang  
-  *arXiv 2026*  
+  *arXiv*  
   [PDF](https://arxiv.org/pdf/2601.05352)
 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023*: National Scholarship of China
+- *2022*: Mathematical Contest in Modeling (MCM/ICM), Honorable Mention (F Award)
+- *2021*: Shenzhen University Top-notch Innovative Talents Scholarship 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01 - Present*, Ph.D. in Computer Science, Brigham Young University (BYU)
+- *2024.09 - 2025.12*, M.S. in Informatics, The Pennsylvania State University (Penn State)
+- *2020.09 - 2024.07*, B.S. in Mathematics, Shenzhen University
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
