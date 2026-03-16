@@ -46,7 +46,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 - **When the Server Steps In: Calibrated Updates for Fair Federated Learning**  
   **Tianrun Yu**, Kaixiang Zhao, Cheng Zhang, Anjun Gao, Yueyang Quan, Zhuqing Liu, Minghong Fang  
-  *2026*  
+  *WiOpt 2026*  
   [PDF](https://arxiv.org/pdf/2601.05352)
 
 
