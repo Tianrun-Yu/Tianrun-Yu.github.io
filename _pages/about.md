@@ -63,8 +63,6 @@ My early work focused on fairness in federated learning. Recently, my primary re
 - *2020.09 - 2024.07*, B.S. in Mathematics, Shenzhen University
 
 
-# 💬 Invited Talks
-
 
 # 💻 Internships
 
