@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Computer Science at Brigham Young University (BYU), advised by <a href="https://science.byu.edu/directory/porter-jenkins">Prof. Porter Jenkins</a>, and I also collaborate with <a href="https://zeroweight.github.io/">Prof. Weitong Zhang</a> (UNC). I received my M.S. from Penn State (IST), where I was advised by <a href="https://fenglong-ma.github.io/">Prof. Fenglong Ma</a> (PSU), and I earned my B.S. in Mathematics from Shenzhen University.
+I am a Ph.D. student in Computer Science at Brigham Young University (BYU), advised by <a href="https://science.byu.edu/directory/porter-jenkins">Prof. Porter Jenkins</a> and <a href="https://twkillian.github.io/">Prof. Taylor Killian</a>, and I also collaborate with <a href="https://zeroweight.github.io/">Prof. Weitong Zhang</a> (UNC). I received my M.S. from Penn State (IST), where I was advised by <a href="https://fenglong-ma.github.io/">Prof. Fenglong Ma</a> (PSU), and I earned my B.S. in Mathematics from Shenzhen University.
 
 
 My early work focused on fairness in federated learning. Recently, my primary research direction has moved to LLM reasoning, with a focus on post-training and test-time scaling (TTS). I am always happy to connect and discuss related ideas.
@@ -40,6 +40,11 @@ My early work focused on fairness in federated learning. Recently, my primary re
   *NeurIPS 2026*  
   [PDF](https://arxiv.org/pdf/2605.30651)
 
+- **Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation**  
+  Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda Hughes  
+  *EMNLP 2026*  
+  [PDF](https://arxiv.org/pdf/2606.00232)
+
 - **When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation**  
   Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W Killian, Weitong Zhang  
   *arXiv preprint*  
@@ -49,12 +54,6 @@ My early work focused on fairness in federated learning. Recently, my primary re
   **Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang  
   *ICLR 2026*  
   [PDF](https://arxiv.org/pdf/2603.01335)
-
-## Multimodal Generation
-- **Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation**  
-  Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda Hughes  
-  *EMNLP 2026*  
-  [PDF](https://arxiv.org/pdf/2606.00232)
 
 ## Federated Learning
 - **Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**  
