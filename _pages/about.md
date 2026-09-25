@@ -23,18 +23,30 @@ I am a Ph.D. student in Computer Science at Brigham Young University (BYU), advi
 
 My research focuses on LLM reasoning, particularly post-training (e.g., reasoning distillation and on-policy distillation) and test-time scaling (TTS). I am always happy to connect and discuss related ideas.
 
+<div class="interest-tags">
+  <span>Reasoning Distillation</span>
+  <span>On-Policy Distillation</span>
+  <span>Test-Time Scaling</span>
+  <span>Self-Improvement</span>
+  <span>Hallucination Mitigation</span>
+</div>
+
 {% comment %}
 My early work focused on fairness in federated learning. Recently, my primary research direction has moved to LLM reasoning, with a focus on post-training and test-time scaling (TTS). I am always happy to connect and discuss related ideas.
 {% endcomment %}
 
 
-# 🔥 News
-- *2026.09*: &nbsp;🎉 One paper was accepted to NeurIPS 2026.
-- *2026.08*: &nbsp;🎉 One paper was accepted to EMNLP 2026.
-- *2026.01*: &nbsp;🎉 One paper was accepted to ICLR 2026.
+# News
+<ul class="news-list">
+  <li><span class="news-date">2026.09</span><span>🎉 <a href="https://arxiv.org/abs/2605.30651">LARK</a> was accepted to <b>NeurIPS 2026</b>.</span></li>
+  <li><span class="news-date">2026.09</span><span>📄 New preprint: <a href="https://arxiv.org/abs/2609.20511">When EOS Tokens Disagree</a>, on length inflation in on-policy distillation.</span></li>
+  <li><span class="news-date">2026.08</span><span>🎉 <a href="https://arxiv.org/abs/2606.00232">Self-Correction Can Amplify Hallucinations</a> was accepted to <b>EMNLP 2026</b>.</span></li>
+  <li><span class="news-date">2026.01</span><span>🎉 <a href="https://arxiv.org/abs/2603.01335">ICPO</a> was accepted to <b>ICLR 2026</b>.</span></li>
+</ul>
 
+# Publications
 
-# 📝 Publications 
+<p class="pub-note">Recent work on LLM reasoning. See <a href="https://scholar.google.com/citations?user=aevgO9wAAAAJ">Google Scholar</a> for the full list.</p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><a href="https://arxiv.org/abs/2605.30651"><img src='images/papers/lark.png' alt="lark.png" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,14 +74,14 @@ Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="https://arxiv.org/abs/2609.20511"><img src='images/papers/eos.png' alt="eos.png" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><a href="https://arxiv.org/abs/2609.20511"><img src='images/papers/eos.png' alt="eos.png" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://arxiv.org/abs/2609.20511)
 
 Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W Killian, Weitong Zhang
 
-<span class="pub-venue">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.20511">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.20511">PDF</a>
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.20511">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.20511">PDF</a>
 
 - Identifies termination-token mismatch between student and teacher as a key source of length inflation in on-policy distillation, and mitigates it by treating equivalent EOS tokens as a shared stopping action.
 </div>
@@ -102,12 +114,14 @@ Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Ba
 {% endcomment %}
 
 
+{% comment %}
 # 🎖 Honors and Awards
 - *2023*: National Scholarship of China
 - *2022*: Mathematical Contest in Modeling (MCM/ICM), Honorable Mention (F Award)
-- *2021*: Shenzhen University Top-notch Innovative Talents Scholarship 
+- *2021*: Shenzhen University Top-notch Innovative Talents Scholarship
+{% endcomment %}
 
-# 📖 Educations
+# Education
 <div class="edu-item">
   <img src="images/logos/byu.svg" alt="BYU">
   <div><strong>Brigham Young University</strong><span class="edu-date">2026.01 – Present</span><br>Ph.D. in Computer Science</div>

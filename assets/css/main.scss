@@ -168,3 +168,68 @@ h1:before, .anchor:before {
     text-decoration: none !important;
     &:hover { background: #00369f; color: #fff !important; }
 }
+
+/* ---- design pass ---- */
+$accent: #002e5d;
+
+.page__content h1 {
+    font-size: 1.35em;
+    color: $accent;
+    border-bottom: 2px solid #e8edf3;
+    padding-bottom: .35em;
+    margin-top: 1.6em;
+    &::after { content: none; }
+}
+
+.interest-tags {
+    margin: .6em 0 .4em;
+    span {
+        display: inline-block;
+        margin: 0 .4em .45em 0;
+        padding: .2em .8em;
+        font-size: .78em;
+        color: $accent;
+        background: #eef3f9;
+        border-radius: 999px;
+    }
+}
+
+.news-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    li {
+        display: flex;
+        align-items: baseline;
+        margin-bottom: .55em;
+        font-size: .95em;
+    }
+    .news-date {
+        flex-shrink: 0;
+        width: 5.2em;
+        margin-right: .8em;
+        padding: .05em 0;
+        text-align: center;
+        font-size: .82em;
+        font-weight: bold;
+        color: $accent;
+        background: #eef3f9;
+        border-radius: 4px;
+    }
+}
+
+.pub-note {
+    font-size: .88em;
+    color: #777;
+    margin-bottom: 0;
+}
+
+.badge { background-color: $accent; }
+.badge.badge-preprint { background-color: #6c757d; }
+.pub-venue { color: $accent; }
+.pub-venue.pub-venue-preprint { color: #6c757d; }
+.pub-btn {
+    border-color: $accent;
+    color: $accent !important;
+    &:hover { background: $accent; }
+}
