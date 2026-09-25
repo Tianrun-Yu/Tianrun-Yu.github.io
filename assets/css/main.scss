@@ -107,3 +107,42 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+.paper-box {
+    .paper-box-image img {
+        background: #fff;
+        border-radius: 4px;
+        padding: 4px;
+    }
+    .paper-box-text p:first-child a {
+        font-weight: bold;
+        font-size: 1.05em;
+    }
+    .paper-box-text ul {
+        margin-top: .3em;
+        font-size: .9em;
+        color: #555;
+    }
+}
+
+.edu-item {
+    display: flex;
+    align-items: center;
+    padding: .8em 0;
+    border-bottom: 1px #efefef solid;
+    img {
+        width: 56px;
+        height: 56px;
+        object-fit: contain;
+        margin-right: 1.2em;
+        flex-shrink: 0;
+    }
+    > div {
+        flex: 1;
+        line-height: 1.5;
+    }
+    .edu-date {
+        float: right;
+        color: #777;
+        font-style: italic;
+    }
+}

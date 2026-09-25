@@ -21,8 +21,11 @@ redirect_from:
 I am a Ph.D. student in Computer Science at Brigham Young University (BYU), advised by <a href="https://science.byu.edu/directory/porter-jenkins">Prof. Porter Jenkins</a> and <a href="https://twkillian.github.io/">Prof. Taylor Killian</a>, and I also collaborate with <a href="https://zeroweight.github.io/">Prof. Weitong Zhang</a> (UNC). I received my M.S. from Penn State (IST), where I was advised by <a href="https://fenglong-ma.github.io/">Prof. Fenglong Ma</a> (PSU), and I earned my B.S. in Mathematics from Shenzhen University.
 
 
-My early work focused on fairness in federated learning. Recently, my primary research direction has moved to LLM reasoning, with a focus on post-training and test-time scaling (TTS). I am always happy to connect and discuss related ideas.
+My research focuses on LLM reasoning, particularly post-training (e.g., reasoning distillation and on-policy distillation) and test-time scaling (TTS). I am always happy to connect and discuss related ideas.
 
+{% comment %}
+My early work focused on fairness in federated learning. Recently, my primary research direction has moved to LLM reasoning, with a focus on post-training and test-time scaling (TTS). I am always happy to connect and discuss related ideas.
+{% endcomment %}
 
 
 # 🔥 News
@@ -33,28 +36,59 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 # 📝 Publications 
 
-## LLM Reasoning
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><a href="https://arxiv.org/abs/2605.30651"><img src='images/papers/lark.png' alt="lark.png" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation**  
-  **Tianrun Yu**, Kaixiang Zhao, Chih-Chun Chen, Amanda Hughes, Taylor W Killian, Fenglong Ma, Weitong Zhang, Porter Jenkins  
-  *NeurIPS 2026*  
-  [PDF](https://arxiv.org/pdf/2605.30651)
+[LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation](https://arxiv.org/abs/2605.30651)
 
-- **Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation**  
-  Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda Hughes  
-  *EMNLP 2026*  
-  [PDF](https://arxiv.org/pdf/2606.00232)
+**Tianrun Yu**, Kaixiang Zhao, Chih-Chun Chen, Amanda Hughes, Taylor W Killian, Fenglong Ma, Weitong Zhang, Porter Jenkins
 
-- **When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation**  
-  Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W Killian, Weitong Zhang  
-  *arXiv preprint*  
-  [PDF](https://arxiv.org/pdf/2609.20511)
+*NeurIPS 2026* &nbsp;|&nbsp; [**arXiv**](https://arxiv.org/abs/2605.30651) &nbsp;|&nbsp; [**PDF**](https://arxiv.org/pdf/2605.30651)
 
-- **Provable and Practical In-Context Policy Optimization for Self-Improvement**  
-  **Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang  
-  *ICLR 2026*  
-  [PDF](https://arxiv.org/pdf/2603.01335)
+- Selects teacher reasoning trajectories by how efficiently the student can learn them, with a χ²-regularized selection policy that preserves distributional coverage.
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><a href="https://arxiv.org/abs/2606.00232"><img src='images/papers/tiger.png' alt="tiger.png" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation](https://arxiv.org/abs/2606.00232)
+
+Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda Hughes
+
+*EMNLP 2026* &nbsp;|&nbsp; [**arXiv**](https://arxiv.org/abs/2606.00232) &nbsp;|&nbsp; [**PDF**](https://arxiv.org/pdf/2606.00232)
+
+- Shows that jointly conditioned self-correction can amplify hallucinations, and repairs high-risk facts via independently extracted observation and claim graphs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="https://arxiv.org/abs/2609.20511"><img src='images/papers/eos.png' alt="eos.png" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://arxiv.org/abs/2609.20511)
+
+Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W Killian, Weitong Zhang
+
+*arXiv 2026* &nbsp;|&nbsp; [**arXiv**](https://arxiv.org/abs/2609.20511) &nbsp;|&nbsp; [**PDF**](https://arxiv.org/pdf/2609.20511)
+
+- Identifies termination-token mismatch between student and teacher as a key source of length inflation in on-policy distillation, and mitigates it by treating equivalent EOS tokens as a shared stopping action.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><a href="https://arxiv.org/abs/2603.01335"><img src='images/papers/icpo.png' alt="icpo.png" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Provable and Practical In-Context Policy Optimization for Self-Improvement](https://arxiv.org/abs/2603.01335)
+
+**Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang
+
+*ICLR 2026* &nbsp;|&nbsp; [**arXiv**](https://arxiv.org/abs/2603.01335) &nbsp;|&nbsp; [**PDF**](https://arxiv.org/pdf/2603.01335)
+
+- Explains multi-round self-reflection as in-context policy optimization with provable guarantees, and proposes ME-ICPO for affordable test-time scaling on math reasoning.
+</div>
+</div>
+
+{% comment %}
 ## Federated Learning
 - **Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**  
   **Tianrun Yu**, Jiaqi Wang, Haoyu Wang, Mingquan Lin, Han Liu, Nelson S. Yee, Fenglong Ma  
@@ -65,8 +99,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
   **Tianrun Yu**, Kaixiang Zhao, Cheng Zhang, Anjun Gao, Yueyang Quan, Zhuqing Liu, Minghong Fang  
   *WiOpt 2026*  
   [PDF](https://arxiv.org/pdf/2601.05352)
-
-
+{% endcomment %}
 
 
 # 🎖 Honors and Awards
@@ -75,11 +108,19 @@ My early work focused on fairness in federated learning. Recently, my primary re
 - *2021*: Shenzhen University Top-notch Innovative Talents Scholarship 
 
 # 📖 Educations
-- *2026.01 - Present*, Ph.D. in Computer Science, Brigham Young University 
-- *2024.09 - 2025.12*, M.S. in Informatics, The Pennsylvania State University 
-- *2020.09 - 2024.07*, B.S. in Mathematics, Shenzhen University
+<div class="edu-item">
+  <img src="images/logos/byu.svg" alt="BYU">
+  <div><strong>Brigham Young University</strong><span class="edu-date">2026.01 – Present</span><br>Ph.D. in Computer Science</div>
+</div>
+<div class="edu-item">
+  <img src="images/logos/psu.svg" alt="Penn State">
+  <div><strong>The Pennsylvania State University</strong><span class="edu-date">2024.09 – 2025.12</span><br>M.S. in Informatics</div>
+</div>
+<div class="edu-item">
+  <img src="images/logos/szu.svg" alt="Shenzhen University">
+  <div><strong>Shenzhen University</strong><span class="edu-date">2020.09 – 2024.07</span><br>B.S. in Mathematics</div>
+</div>
 
-
-
+{% comment %}
 # 💻 Internships
-
+{% endcomment %}
