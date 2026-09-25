@@ -116,6 +116,9 @@ h1:before, .anchor:before {
     .paper-box-text p:first-child a {
         font-weight: bold;
         font-size: 1.05em;
+        color: #222;
+        text-decoration: none;
+        &:hover { color: #00369f; text-decoration: underline; }
     }
     .paper-box-text ul {
         margin-top: .3em;
@@ -145,4 +148,23 @@ h1:before, .anchor:before {
         color: #777;
         font-style: italic;
     }
+}
+
+.pub-venue {
+    font-style: italic;
+    font-weight: bold;
+    color: #00369f;
+    margin-right: .6em;
+}
+
+.pub-btn {
+    display: inline-block;
+    padding: .1em .7em;
+    margin-right: .4em;
+    font-size: .8em;
+    border: 1px solid #00369f;
+    border-radius: 3px;
+    color: #00369f !important;
+    text-decoration: none !important;
+    &:hover { background: #00369f; color: #fff !important; }
 }

@@ -43,7 +43,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 **Tianrun Yu**, Kaixiang Zhao, Chih-Chun Chen, Amanda Hughes, Taylor W Killian, Fenglong Ma, Weitong Zhang, Porter Jenkins
 
-*NeurIPS 2026* &nbsp;|&nbsp; [**arXiv**](https://arxiv.org/abs/2605.30651) &nbsp;|&nbsp; [**PDF**](https://arxiv.org/pdf/2605.30651)
+<span class="pub-venue">NeurIPS 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2605.30651">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2605.30651">PDF</a>
 
 - Selects teacher reasoning trajectories by how efficiently the student can learn them, with a χ²-regularized selection policy that preserves distributional coverage.
 </div>
@@ -56,7 +56,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda Hughes
 
-*EMNLP 2026* &nbsp;|&nbsp; [**arXiv**](https://arxiv.org/abs/2606.00232) &nbsp;|&nbsp; [**PDF**](https://arxiv.org/pdf/2606.00232)
+<span class="pub-venue">EMNLP 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2606.00232">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2606.00232">PDF</a>
 
 - Shows that jointly conditioned self-correction can amplify hallucinations, and repairs high-risk facts via independently extracted observation and claim graphs.
 </div>
@@ -69,7 +69,7 @@ Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda 
 
 Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W Killian, Weitong Zhang
 
-*arXiv 2026* &nbsp;|&nbsp; [**arXiv**](https://arxiv.org/abs/2609.20511) &nbsp;|&nbsp; [**PDF**](https://arxiv.org/pdf/2609.20511)
+<span class="pub-venue">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.20511">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.20511">PDF</a>
 
 - Identifies termination-token mismatch between student and teacher as a key source of length inflation in on-policy distillation, and mitigates it by treating equivalent EOS tokens as a shared stopping action.
 </div>
@@ -82,7 +82,7 @@ Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Ba
 
 **Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang
 
-*ICLR 2026* &nbsp;|&nbsp; [**arXiv**](https://arxiv.org/abs/2603.01335) &nbsp;|&nbsp; [**PDF**](https://arxiv.org/pdf/2603.01335)
+<span class="pub-venue">ICLR 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2603.01335">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2603.01335">PDF</a>
 
 - Explains multi-round self-reflection as in-context policy optimization with provable guarantees, and proposes ME-ICPO for affordable test-time scaling on math reasoning.
 </div>
