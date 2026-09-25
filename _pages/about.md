@@ -39,7 +39,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
 # News
 <ul class="news-list">
   <li><span class="news-date">2026.09</span><span>🎉 <a href="https://arxiv.org/abs/2605.30651">LARK</a> was accepted to <b>NeurIPS 2026</b>.</span></li>
-  <li><span class="news-date">2026.09</span><span>📄 New preprint: <a href="https://arxiv.org/abs/2609.20511">When EOS Tokens Disagree</a>, on length inflation in on-policy distillation.</span></li>
+  <li><span class="news-date">2026.09</span><span>🔥 New preprint <a href="https://arxiv.org/abs/2609.20511">When EOS Tokens Disagree</a>, on length inflation in on-policy distillation, ranked <b>#3 Paper of the Day</b> on <a href="https://huggingface.co/papers/2609.20511">🤗 Hugging Face</a>.</span></li>
   <li><span class="news-date">2026.08</span><span>🎉 <a href="https://arxiv.org/abs/2606.00232">Self-Correction Can Amplify Hallucinations</a> was accepted to <b>EMNLP 2026</b>.</span></li>
   <li><span class="news-date">2026.01</span><span>🎉 <a href="https://arxiv.org/abs/2603.01335">ICPO</a> was accepted to <b>ICLR 2026</b>.</span></li>
 </ul>
@@ -81,7 +81,7 @@ Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda 
 
 Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W Killian, Weitong Zhang
 
-<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.20511">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.20511">PDF</a>
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.20511">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.20511">PDF</a> <a class="pub-hf" href="https://huggingface.co/papers/2609.20511">🤗 #3 Paper of the Day</a>
 
 - Identifies termination-token mismatch between student and teacher as a key source of length inflation in on-policy distillation, and mitigates it by treating equivalent EOS tokens as a shared stopping action.
 </div>
