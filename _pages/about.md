@@ -26,6 +26,8 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 One paper was accepted to NeurIPS 2026.
+- *2026.08*: &nbsp;🎉 One paper was accepted to EMNLP 2026.
 - *2026.01*: &nbsp;🎉 One paper was accepted to ICLR 2026.
 
 
@@ -33,10 +35,26 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 ## LLM Reasoning
 
+- **LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation**  
+  **Tianrun Yu**, Kaixiang Zhao, Chih-Chun Chen, Amanda Hughes, Taylor W Killian, Fenglong Ma, Weitong Zhang, Porter Jenkins  
+  *NeurIPS 2026*  
+  [PDF](https://arxiv.org/pdf/2605.30651)
+
+- **When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation**  
+  Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W Killian, Weitong Zhang  
+  *arXiv preprint*  
+  [PDF](https://arxiv.org/pdf/2609.20511)
+
 - **Provable and Practical In-Context Policy Optimization for Self-Improvement**  
   **Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang  
   *ICLR 2026*  
   [PDF](https://arxiv.org/pdf/2603.01335)
+
+## Multimodal Generation
+- **Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation**  
+  Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda Hughes  
+  *EMNLP 2026*  
+  [PDF](https://arxiv.org/pdf/2606.00232)
 
 ## Federated Learning
 - **Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**  
