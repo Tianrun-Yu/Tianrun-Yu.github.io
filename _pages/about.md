@@ -74,6 +74,19 @@ Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><a href="https://arxiv.org/abs/2603.01335"><img src='images/papers/icpo.png' alt="icpo.png" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Provable and Practical In-Context Policy Optimization for Self-Improvement](https://arxiv.org/abs/2603.01335)
+
+**Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang
+
+<span class="pub-venue">ICLR 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2603.01335">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2603.01335">PDF</a>
+
+- Explains multi-round self-reflection as in-context policy optimization with provable guarantees, and proposes ME-ICPO for affordable test-time scaling on math reasoning.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><a href="https://arxiv.org/abs/2609.20511"><img src='images/papers/eos.png' alt="eos.png" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,16 +100,42 @@ Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Ba
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><a href="https://arxiv.org/abs/2603.01335"><img src='images/papers/icpo.png' alt="icpo.png" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><img src='images/papers/cis.png' alt="cis.png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Provable and Practical In-Context Policy Optimization for Self-Improvement](https://arxiv.org/abs/2603.01335)
+**Rethinking Training–Inference Mismatch in LLM Reinforcement Learning: Where It Arises and How to Correct It**
 
-**Tianrun Yu**, Yuxiao Yang, Zhaoyang Wang, Kaixiang Zhao, Porter Jenkins, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Weitong Zhang
+**Tianrun Yu**, Kaixiang Zhao, Shangzhe Li, Yuxiao Yang, Porter Jenkins, Weitong Zhang, Taylor W Killian
 
-<span class="pub-venue">ICLR 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2603.01335">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2603.01335">PDF</a>
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span>
 
-- Explains multi-round self-reflection as in-context policy optimization with provable guarantees, and proposes ME-ICPO for affordable test-time scaling on math reasoning.
+- Characterizes the training–inference mismatch in RLVR as an additive log-odds displacement, and proposes calibrated importance sampling (CIS), a confidence-aware truncation with a bounded second moment.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><img src='images/papers/revo.png' alt="revo.png" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse**
+
+Yuxiao Yang, Shangzhe Li, **Tianrun Yu**, Kaixiang Zhao, Taylor W Killian, Weitong Zhang
+
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span>
+
+- Reuses each student rollout for multiple updates via one-step resampling, stabilized prefix weighting, and variance-guided token priorities; 50 rollout iterations match or exceed OPD trained for 200.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><img src='images/papers/lspd.png' alt="lspd.png" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning**
+
+Shangzhe Li, Yuxiao Yang, **Tianrun Yu**, Kaixiang Zhao, Xiaoyun Wang, Taylor W Killian, Weitong Zhang
+
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span>
+
+- Connects reverse-KL OPD to KL-regularized policy optimization, and brings optimistic exploration and off-policy data reuse into distillation to preserve policy diversity.
 </div>
 </div>
 

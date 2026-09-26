@@ -245,3 +245,8 @@ $accent: #002e5d;
     border-radius: 3px;
     text-decoration: none !important;
 }
+
+.paper-box .paper-box-text p:first-child strong {
+    font-size: 1.05em;
+    color: #222;
+}
