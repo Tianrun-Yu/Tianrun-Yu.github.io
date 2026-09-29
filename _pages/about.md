@@ -95,7 +95,7 @@ Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda 
 
 Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Bansal, Huaxiu Yao, Taylor W Killian, Weitong Zhang
 
-<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.20511">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.20511">PDF</a> <a class="pub-hf" href="https://huggingface.co/papers/2609.20511">🤗 #3 Paper of the Day</a>
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.20511">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.20511">PDF</a> <a class="pub-btn" href="https://uncsciml.github.io/opd-eos-website/">Website</a> <a class="pub-hf" href="https://huggingface.co/papers/2609.20511">🤗 #3 Paper of the Day</a>
 
 - Identifies termination-token mismatch between student and teacher as a key source of length inflation in on-policy distillation, and mitigates it by treating equivalent EOS tokens as a shared stopping action.
 </div>
@@ -108,7 +108,7 @@ Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Ba
 
 **Tianrun Yu**, Kaixiang Zhao, Shangzhe Li, Yuxiao Yang, Porter Jenkins, Weitong Zhang, Taylor W Killian
 
-<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.32444">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.32444">PDF</a>
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.32444">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.32444">PDF</a> <a class="pub-btn" href="https://kzhao5.github.io/CIS-website/">Website</a>
 
 - Characterizes the training–inference mismatch in RLVR as an additive log-odds displacement, and proposes calibrated importance sampling (CIS), a confidence-aware truncation with a bounded second moment.
 </div>
