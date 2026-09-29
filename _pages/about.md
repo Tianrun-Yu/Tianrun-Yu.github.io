@@ -38,6 +38,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 # News
 <ul class="news-list">
+  <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://arxiv.org/abs/2609.35505">An RL View of OPD</a>, which proposes Least-Square Policy Distillation (LSPD).</span></li>
   <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://arxiv.org/abs/2609.32444">Rethinking Training–Inference Mismatch in LLM RL</a>, which proposes calibrated importance sampling (CIS).</span></li>
   <li><span class="news-date">2026.09</span><span>🎉 <a href="https://arxiv.org/abs/2605.30651">LARK</a> was accepted to <b>NeurIPS 2026</b>.</span></li>
   <li><span class="news-date">2026.09</span><span>🔥 New preprint <a href="https://arxiv.org/abs/2609.20511">When EOS Tokens Disagree</a>, on length inflation in on-policy distillation, ranked <b>#3 Paper of the Day</b> on <a href="https://huggingface.co/papers/2609.20511">🤗 Hugging Face</a>.</span></li>
@@ -127,14 +128,14 @@ Yuxiao Yang, Shangzhe Li, **Tianrun Yu**, Kaixiang Zhao, Taylor W Killian, Weito
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><img src='images/papers/lspd.png' alt="lspd.png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><a href="https://arxiv.org/abs/2609.35505"><img src='images/papers/lspd.png' alt="lspd.png" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning**
+[An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning](https://arxiv.org/abs/2609.35505)
 
 Shangzhe Li, Yuxiao Yang, **Tianrun Yu**, Kaixiang Zhao, Xiaoyun Wang, Taylor W Killian, Weitong Zhang
 
-<span class="pub-venue pub-venue-preprint">arXiv 2026</span>
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.35505">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.35505">PDF</a>
 
 - Connects reverse-KL OPD to KL-regularized policy optimization, and brings optimistic exploration and off-policy data reuse into distillation to preserve policy diversity.
 </div>
