@@ -38,7 +38,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 # News
 <ul class="news-list">
-  <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://github.com/UNCSciML/REVO/releases/download/preprint-v1/REVO_preprint.pdf">REVO</a>, on rollout-efficient off-policy distillation via variance-guided reuse.</span></li>
+  <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://arxiv.org/abs/2609.37500">REVO</a>, on rollout-efficient off-policy distillation via variance-guided reuse.</span></li>
   <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://arxiv.org/abs/2609.35505">An RL View of OPD</a>, which proposes Least-Square Policy Distillation (LSPD).</span></li>
   <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://arxiv.org/abs/2609.32444">Rethinking Training–Inference Mismatch in LLM RL</a>, which proposes calibrated importance sampling (CIS).</span></li>
   <li><span class="news-date">2026.09</span><span>🎉 <a href="https://arxiv.org/abs/2605.30651">LARK</a> was accepted to <b>NeurIPS 2026</b>.</span></li>
@@ -116,14 +116,14 @@ Yuxiao Yang, **Tianrun Yu**, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang, Chetan Ba
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><a href="https://github.com/UNCSciML/REVO/releases/download/preprint-v1/REVO_preprint.pdf"><img src='images/papers/revo.png' alt="revo.png" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><a href="https://arxiv.org/abs/2609.37500"><img src='images/papers/revo.png' alt="revo.png" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse](https://github.com/UNCSciML/REVO/releases/download/preprint-v1/REVO_preprint.pdf)
+[REVO: Rollout-Efficient Off-Policy Distillation via Variance-Guided Reuse](https://arxiv.org/abs/2609.37500)
 
 Yuxiao Yang, Shangzhe Li, **Tianrun Yu**, Kaixiang Zhao, Taylor W Killian, Weitong Zhang
 
-<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://github.com/UNCSciML/REVO/releases/download/preprint-v1/REVO_preprint.pdf">PDF</a>
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2609.37500">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2609.37500">PDF</a>
 
 - Reuses each student rollout for multiple updates via one-step resampling, stabilized prefix weighting, and variance-guided token priorities; 50 rollout iterations match or exceed OPD trained for 200.
 </div>
