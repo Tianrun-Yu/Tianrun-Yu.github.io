@@ -38,6 +38,7 @@ My early work focused on fairness in federated learning. Recently, my primary re
 
 # News
 <ul class="news-list">
+  <li><span class="news-date">2026.10</span><span>📄 New preprint <a href="https://arxiv.org/abs/2610.20572">CriticOPD</a>, which recovers reliable teacher supervision in on-policy distillation via critique-guided rewriting.</span></li>
   <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://arxiv.org/abs/2609.37500">REVO</a>, on rollout-efficient off-policy distillation via variance-guided reuse.</span></li>
   <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://arxiv.org/abs/2609.35505">An RL View of OPD</a>, which proposes Least-Square Policy Distillation (LSPD).</span></li>
   <li><span class="news-date">2026.09</span><span>📄 New preprint <a href="https://arxiv.org/abs/2609.32444">Rethinking Training–Inference Mismatch in LLM RL</a>, which proposes calibrated importance sampling (CIS).</span></li>
@@ -87,6 +88,19 @@ Kaixiang Zhao, **Tianrun Yu**, Shawn Huang, Porter Jenkins, Yushun Dong, Amanda 
 <span class="pub-venue">ICLR 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2603.01335">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2603.01335">PDF</a>
 
 - Explains multi-round self-reflection as in-context policy optimization with provable guarantees, and proposes ME-ICPO for affordable test-time scaling on math reasoning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">arXiv 2026</div><a href="https://arxiv.org/abs/2610.20572"><img src='images/papers/criticopd.png' alt="criticopd.png" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Recovering Reliable Supervision via Critique-Guided On-Policy Distillation](https://arxiv.org/abs/2610.20572)
+
+Kaixiang Zhao, **Tianrun Yu**, Shangzhe Li, Yuxiao Yang, Amanda Hughes, Weitong Zhang, Taylor W Killian
+
+<span class="pub-venue pub-venue-preprint">arXiv 2026</span> <a class="pub-btn" href="https://arxiv.org/abs/2610.20572">arXiv</a> <a class="pub-btn" href="https://arxiv.org/pdf/2610.20572">PDF</a> <a class="pub-btn" href="https://kzhao5.github.io/CriticOPD-website/">Website</a>
+
+- Shows that the OPD teacher often follows student errors even though it recognizes them, and restores reliable supervision (CriticOPD) by having the teacher critique incorrect rollouts and the student rewrite from the last error.
 </div>
 </div>
 
